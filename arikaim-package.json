@@ -1,0 +1,10 @@
+{
+    "title": "Material Icons",
+    "package-type": "components",
+    "name": "material-icons",
+    "version": "1.0.0",
+    "description": "Google material svg icons components library.",
+    "repository": "https://github.com/arikaim/material-icons.git",
+    "require": {       
+    }
+}
