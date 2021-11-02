@@ -1,8 +1,8 @@
-## Arikaim CMS icons components library
-![version: 1.0.0](https://img.shields.io/github/release/arikaim/icons-components.svg)
+## Arikaim CMS material design icons components library
+![version: 1.0.0](https://img.shields.io/github/release/arikaim/material-icons.svg)
 ![license: GPL3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-![Heroicons](https://github.com/tailwindlabs/heroicons) for Arikaim CMS
+Material design SVG icons for Arikaim CMS
 
 
 
@@ -14,5 +14,5 @@
 #### Installation
 
 ```sh
-composer require arikaim/icons-components
+composer require arikaim/material-icons
 ```

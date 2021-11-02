@@ -1,6 +1,6 @@
 {
     "name": "arikaim/material-icons",
-    "description": "Google material SVG icons components for Arikaim CMS",
+    "description": "Material design SVG icons components for Arikaim CMS",
     "keywords": ["UI", "svg icons components","Arikaim"],
     "type": "arikaim-components-library",
     "license": "GPL-3.0-or-later",
