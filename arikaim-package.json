@@ -2,7 +2,7 @@
     "title": "Material Icons",
     "package-type": "components",
     "name": "material-icons",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "Material design svg icons components library.",
     "repository": "https://github.com/arikaim/material-icons.git",
     "require": {       
